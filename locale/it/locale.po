@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-11-27T16:11:07+00:00\n"
+"PO-Revision-Date: 2020-11-27T16:11:07+00:00\n"
+"Language: \n"
+
+msgid "plugins.themes.healthSciencesChild.name"
+msgstr "Tema Health Sciences Child"
+
+msgid "plugins.themes.healthSciencesChild.description"
+msgstr "Questa è una versione modificata del tema Health Sciences"
+
+msgid "plugins.themes.healthSciencesChild.peerreview"
+msgstr "Piattaforma Peer Review"
+
+msgid "plugins.themes.healthSciencesChild.peerreviewdescription"
+msgstr "Tribuna Medica Ticinese"
+
+msgid "plugins.themes.healthSciencesChild.language"
+msgstr "Lingua: "
+
+msgid "plugins.themes.healthSciencesChild.register"
+msgstr "Crea Account"
+
+msgid "plugins.themes.healthSciencesChild.dashboard"
+msgstr "Bacheca"
+
+msgid "plugins.themes.healthSciencesChild.viewprofile"
+msgstr "Visualizza profilo"
+
+msgid "plugins.themes.healthSciencesChild.administration"
+msgstr "Amministrazione"

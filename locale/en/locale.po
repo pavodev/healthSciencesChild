@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-11-27T16:11:07+00:00\n"
+"PO-Revision-Date: 2020-11-27T16:11:07+00:00\n"
+"Language: \n"
+
+msgid "plugins.themes.healthSciencesChild.name"
+msgstr "Health Sciences Child Theme"
+
+msgid "plugins.themes.healthSciencesChild.description"
+msgstr "This is a slightly modified version of the Health Sciences theme"
+
+msgid "plugins.themes.healthSciencesChild.peerreview"
+msgstr "Peer Review Platform"
+
+msgid "plugins.themes.healthSciencesChild.peerreviewdescription"
+msgstr "Ticino Medical Tribune"
+
+msgid "plugins.themes.healthSciencesChild.language"
+msgstr "Language: "
+
+msgid "plugins.themes.healthSciencesChild.register"
+msgstr "Register"
+
+msgid "plugins.themes.healthSciencesChild.dashboard"
+msgstr "Dashboard"
+
+msgid "plugins.themes.healthSciencesChild.viewprofile"
+msgstr "View Profile"
+
+msgid "plugins.themes.healthSciencesChild.administration"
+msgstr "Administration"
